@@ -1,0 +1,3 @@
+C:/Users/chris/CLionProjects/TwentyOnePointsGame/cmake-build-debug/CMakeFiles/TwentyOnePointsGame.dir
+C:/Users/chris/CLionProjects/TwentyOnePointsGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/CLionProjects/TwentyOnePointsGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

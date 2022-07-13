@@ -1,0 +1,20 @@
+# ninja log v5
+0	782	6793658144852093	CMakeFiles/TwentyOnePointsGame.dir/main.cpp.obj	e6b158ac0c88cdd7
+786	1067	6793658147742784	TwentyOnePointsGame.exe	c9211e6c0532d049
+68	1224	6794450745317366	CMakeFiles/TwentyOnePointsGame.dir/Card.cpp.obj	ef5f4518c07ab345
+88	1369	6794450746105258	CMakeFiles/TwentyOnePointsGame.dir/Human.cpp.obj	5aea326fceb4e9da
+142	1583	6794450746394573	CMakeFiles/TwentyOnePointsGame.dir/Player.cpp.obj	f0a59065b6b8bb25
+51	1609	6794450746693696	CMakeFiles/TwentyOnePointsGame.dir/Hand.cpp.obj	53dc2929bcc4d4d1
+176	1630	6794450747421723	CMakeFiles/TwentyOnePointsGame.dir/Computer.cpp.obj	8048208f2858650f
+11	1654	6794450749236864	CMakeFiles/TwentyOnePointsGame.dir/main.cpp.obj	e6b158ac0c88cdd7
+1225	2308	6794450756278043	CMakeFiles/TwentyOnePointsGame.dir/Deck.cpp.obj	124f0f1149045737
+1370	2393	6794450757035393	CMakeFiles/TwentyOnePointsGame.dir/Game.cpp.obj	1a2cb4a875103a20
+2393	2923	6794450762466092	TwentyOnePointsGame.exe	ed0f33f0d7bca189
+6	779	6794452886749613	CMakeFiles/TwentyOnePointsGame.dir/main.cpp.obj	e6b158ac0c88cdd7
+780	1067	6794452889918931	TwentyOnePointsGame.exe	ed0f33f0d7bca189
+7	803	6794453781737893	CMakeFiles/TwentyOnePointsGame.dir/main.cpp.obj	e6b158ac0c88cdd7
+803	1071	6794453784616522	TwentyOnePointsGame.exe	ed0f33f0d7bca189
+7	756	6794454365144321	CMakeFiles/TwentyOnePointsGame.dir/main.cpp.obj	e6b158ac0c88cdd7
+756	1012	6794454367821738	TwentyOnePointsGame.exe	ed0f33f0d7bca189
+5	797	6794454624159469	CMakeFiles/TwentyOnePointsGame.dir/main.cpp.obj	e6b158ac0c88cdd7
+797	1067	6794454627075586	TwentyOnePointsGame.exe	ed0f33f0d7bca189
